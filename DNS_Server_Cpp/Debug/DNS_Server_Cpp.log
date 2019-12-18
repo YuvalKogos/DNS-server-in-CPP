@@ -1,0 +1,7 @@
+﻿  DNSServerCpp.cpp
+c:\users\yuval\source\repos\dns_server_cpp\dns_server_cpp\dnsservercpp.cpp(33): warning C4018: '<': signed/unsigned mismatch
+c:\users\yuval\source\repos\dns_server_cpp\dns_server_cpp\dnsservercpp.cpp(36): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\yuval\source\repos\dns_server_cpp\dns_server_cpp\dnsservercpp.cpp(370): warning C4172: returning address of local variable or temporary: response
+c:\users\yuval\source\repos\dns_server_cpp\dns_server_cpp\dnsservercpp.cpp(465): warning C4172: returning address of local variable or temporary: response
+  DNS_Server_Cpp.vcxproj -> C:\Users\yuval\source\repos\DNS_Server_Cpp\Debug\DNS_Server_Cpp.exe
+  DNS_Server_Cpp.vcxproj -> C:\Users\yuval\source\repos\DNS_Server_Cpp\Debug\DNS_Server_Cpp.pdb (Partial PDB)
